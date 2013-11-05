@@ -1,0 +1,3 @@
+nao_head.pcd
+nao_chest.pcd
+nao_legs.pcd
