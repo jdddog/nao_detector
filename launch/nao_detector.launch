@@ -1,0 +1,3 @@
+<launch>
+	<node name="nao_detector" pkg="nao_detector" type="nao_detector_algo" respawn="false" output="screen" />
+</launch>

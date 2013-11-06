@@ -12,6 +12,9 @@ include_directories(${catkin_INCLUDE_DIRS})
 add_executable(nao_detector_algo src/nao_detector_algo.cpp)
 target_link_libraries(nao_detector_algo ${catkin_LIBRARIES})
 
+add_executable(nao_detector_kp src/nao_detector_keypoints.cpp)
+target_link_libraries(nao_detector_kp ${catkin_LIBRARIES})
+
 add_executable(nao_simulator src/nao_simulator.cpp)
 target_link_libraries(nao_simulator ${catkin_LIBRARIES})
 
