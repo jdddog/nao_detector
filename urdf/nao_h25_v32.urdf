@@ -16,7 +16,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/Torso.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/Torso.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -28,7 +28,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/Torso.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/Torso.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -37,7 +37,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/HeadYaw.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/HeadYaw.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -49,7 +49,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/HeadYaw.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/HeadYaw.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -58,7 +58,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/HeadPitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/HeadPitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -70,7 +70,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/HeadPitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/HeadPitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -79,7 +79,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LShoulderPitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LShoulderPitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -91,7 +91,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LShoulderPitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LShoulderPitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -100,7 +100,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LShoulderRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LShoulderRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -112,7 +112,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LShoulderRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LShoulderRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -121,7 +121,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LElbowYaw.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LElbowYaw.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -133,7 +133,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LElbowYaw.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LElbowYaw.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -142,7 +142,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LElbowRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LElbowRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -154,7 +154,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LElbowRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LElbowRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -163,7 +163,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/WristYaw.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/WristYaw.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -175,7 +175,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/WristYaw.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/WristYaw.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -185,7 +185,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RShoulderPitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RShoulderPitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -197,7 +197,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RShoulderPitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RShoulderPitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -206,7 +206,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RShoulderRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RShoulderRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -218,7 +218,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RShoulderRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RShoulderRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -227,7 +227,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RElbowYaw.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RElbowYaw.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -239,7 +239,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RElbowYaw.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RElbowYaw.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -248,7 +248,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RElbowRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RElbowRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -260,7 +260,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RElbowRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RElbowRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -269,7 +269,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/WristYaw.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/WristYaw.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -281,7 +281,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/WristYaw.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/WristYaw.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -292,7 +292,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LHipYawPitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LHipYawPitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -304,7 +304,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LHipYawPitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LHipYawPitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -313,7 +313,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LHipRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LHipRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -325,7 +325,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LHipRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LHipRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -334,7 +334,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LHipPitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LHipPitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -346,7 +346,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LHipPitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LHipPitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -355,7 +355,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LKneePitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LKneePitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -367,7 +367,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LKneePitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LKneePitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -376,7 +376,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LAnklePitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LAnklePitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -388,7 +388,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LAnklePitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LAnklePitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -397,7 +397,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LAnkleRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LAnkleRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -409,7 +409,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/LAnkleRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/LAnkleRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -418,7 +418,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RHipYawPitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RHipYawPitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -430,7 +430,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RHipYawPitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RHipYawPitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -439,7 +439,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RHipRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RHipRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -451,7 +451,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RHipRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RHipRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -460,7 +460,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RHipPitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RHipPitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -472,7 +472,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RHipPitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RHipPitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -481,7 +481,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RKneePitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RKneePitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -493,7 +493,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RKneePitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RKneePitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -502,7 +502,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RAnklePitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RAnklePitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -514,7 +514,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RAnklePitch.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RAnklePitch.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -523,7 +523,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RAnkleRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RAnkleRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -535,7 +535,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="package://nao_description/meshes/V32/RAnkleRoll.mesh" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://nao_detector/meshes/V32/RAnkleRoll.mesh" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
